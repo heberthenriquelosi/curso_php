@@ -1,6 +1,7 @@
 <?php
 
 // Verificar se um aluno foi aprovado
+// (if) Se
 $nota_aluno =8.5;
 $media_para_aprovar = 7.0;
 
